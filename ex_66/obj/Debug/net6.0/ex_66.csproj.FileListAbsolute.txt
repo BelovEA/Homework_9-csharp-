@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\bin\Debug\net6.0\ex_66.exe
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\bin\Debug\net6.0\ex_66.deps.json
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\bin\Debug\net6.0\ex_66.runtimeconfig.json
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\bin\Debug\net6.0\ex_66.dll
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\bin\Debug\net6.0\ex_66.pdb
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\obj\Debug\net6.0\ex_66.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\obj\Debug\net6.0\ex_66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\obj\Debug\net6.0\ex_66.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\obj\Debug\net6.0\ex_66.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\obj\Debug\net6.0\ex_66.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\obj\Debug\net6.0\ex_66.dll
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\obj\Debug\net6.0\refint\ex_66.dll
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\obj\Debug\net6.0\ex_66.pdb
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\obj\Debug\net6.0\ex_66.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Evg_Belov_myprog\hw_GB_from6_to9\seminar_9\ex_66\obj\Debug\net6.0\ref\ex_66.dll
