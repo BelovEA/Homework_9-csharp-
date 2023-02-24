@@ -1,4 +1,6 @@
-﻿int Ackermann(int m, int n)
+﻿Console.WriteLine("ex_68");
+
+int Ackermann(int m, int n)
 {
     if (m == 0)
     {
